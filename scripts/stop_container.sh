@@ -5,3 +5,4 @@ set -e
 # containerid = `docker ps | awk -F " " '{print $1}'`
 
 # docker rm -f $containerid
+echo "updating the stop container file" 
